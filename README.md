@@ -3,7 +3,7 @@ draw an r/layer submission based on an image file
 
 # how to use
 pretty much everything is arbitrary to fit my system, so good luck.
-Important thigns to look at:
+Important things to look at:
 - min_val in "getImginImg()"
 - all variables in snake case
 - line 189 (topBarImg = readImg("./reference/topBar.png"))
